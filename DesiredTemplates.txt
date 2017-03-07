@@ -1,0 +1,5 @@
+ThrowAway
+Simple
+SimplePro (Simple + Tests)
+DesktopBridge
+QuickStart (Template10 & Community toolkit)

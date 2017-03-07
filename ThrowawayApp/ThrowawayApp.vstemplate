@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
   <TemplateData>
-    <Name>Quick Test App (Universal Windows)</Name>
+    <Name>Throwaway App (Universal Windows)</Name>
     <Description>Create a simple UWP app for quick testing purposes.</Description>
     <Icon Package="{2581426E-BF4F-4A49-A42A-20EF9D51EF49}" ID="4001" />
     <ProjectType>CSharp</ProjectType>
     <ProjectSubType></ProjectSubType>
     <SortOrder>1000</SortOrder>
     <CreateNewFolder>true</CreateNewFolder>
-    <DefaultName>QuickTestApp</DefaultName>
+    <DefaultName>ThrowawayApp</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
     <LocationField>Enabled</LocationField>
     <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
