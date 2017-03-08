@@ -4,6 +4,8 @@
     <Name>Throwaway App (Universal Windows)</Name>
     <Description>Create a simple UWP app for quick testing purposes.</Description>
     <Icon Package="{2581426E-BF4F-4A49-A42A-20EF9D51EF49}" ID="4001" />
+    <TemplateID>Mrlacey.CS.WinRT.UAP.ThrowawayApplication</TemplateID>
+    <TemplateGroupID>WinRT-Managed</TemplateGroupID>
     <ProjectType>CSharp</ProjectType>
     <ProjectSubType></ProjectSubType>
     <SortOrder>1000</SortOrder>
@@ -12,9 +14,12 @@
     <ProvideDefaultName>true</ProvideDefaultName>
     <LocationField>Enabled</LocationField>
     <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <NumberOfParentCategoriesToRollUp>2</NumberOfParentCategoriesToRollUp>
     <TargetPlatformName>Windows</TargetPlatformName>
     <RequiredPlatformVersion>6.1.0</RequiredPlatformVersion>
+    <CreateInPlace>true</CreateInPlace>
     <PreviewImage>BlankApp.png</PreviewImage>
+    <AppIdFilter>blend</AppIdFilter>
     <PromptForSaveOnCreation>true</PromptForSaveOnCreation>
   </TemplateData>
   <TemplateContent PreferedSolutionConfiguration="Debug|x86">

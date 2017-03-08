@@ -23,9 +23,9 @@ namespace $safeprojectname$
             this.InitializeComponent();
         }
 
-        private void TestSomethingClicked(object sender, RoutedEventArgs e)
+        private void DoSomethingClicked(object sender, RoutedEventArgs e)
         {
-            // TODO: do testing here
+            // TODO: do something here
         }
     }
 }
